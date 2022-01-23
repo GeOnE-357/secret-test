@@ -1,3 +1,5 @@
+require ('process');
+
 function main()
 	{
 		const secreto = process.env.SECRETO_UNO;

@@ -1,0 +1,25 @@
+{
+  "name": "secret-test",
+  "version": "1.0.0",
+  "description": "prueba de secret",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeOnE-357/secret-test.git"
+  },
+  "keywords": [
+    "secrets"
+  ],
+  "author": "Emilio Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeOnE-357/secret-test/issues"
+  },
+  "homepage": "https://github.com/GeOnE-357/secret-test#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0"
+  }
+}
